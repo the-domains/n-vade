@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[When Passion Meets Purpose You're Doing It]]></title>
         <description><![CDATA[When Passion Meets Purpose You're Doing It]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://nvadenow.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 23:23:09 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 15 Jul 2016 23:24:19 GMT</lastBuildDate>
+        <atom:link href="http://nvadenow.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[O Come to the Altar]]></title>
+            <description><![CDATA[<article><h1>O Come to the Altar</h1><p>Music is one of things that brings the world together. So many people have a passion for music and can use it to influence and nvade!</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9ce8e50-ee6f-4aba-a503-46893e746c2a.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9ce8e50-ee6f-4aba-a503-46893e746c2a.jpg</link>
+            <guid isPermaLink="false">31631ac4-72a8-4b12-9dcf-ac7726524a86</guid>
+            <pubDate>Fri, 15 Jul 2016 23:24:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4121841-70f2-4c0c-ab04-b727c43546ff.jpg">]]></description>
-            <link>undefinedd688a5d7-722f-4f05-a8d0-d23a0cdd4daa/index.html</link>
+            <link>http://nvadenow.com/d688a5d7-722f-4f05-a8d0-d23a0cdd4daa/index.html</link>
             <guid isPermaLink="false">d688a5d7-722f-4f05-a8d0-d23a0cdd4daa</guid>
             <pubDate>Fri, 15 Jul 2016 23:23:07 GMT</pubDate>
         </item>
