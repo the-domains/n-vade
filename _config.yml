@@ -1,5 +1,6 @@
-layout_spectrum: 0.24867402319796383
 typography_spectrum: 0.6558364739175886
+content_rating:
+  adult: false
 color:
   brandStrength: 0.5526718990877271
   lightness: 0.605634200386703
@@ -11,4 +12,12 @@ color:
     - '#F2CA80'
     - '#5E5A59'
     - '#0D0D0D'
+layout_spectrum: 0.24867402319796383
+author:
+  name: Chichi
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/f91f4b5a-8c98-4b81-a25d-e5c17d262072.png
 name: N-Vade
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/de5c3494-6e33-402b-89fe-e0c70d4449e7.png
+title: When Passion Meets Purpose You're Doing It
