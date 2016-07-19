@@ -1,18 +1,18 @@
-typography_spectrum: 0.6558364739175886
+typography_spectrum: 0.2280795539263636
 content_rating:
   adult: false
 color:
-  brandStrength: 0.5526718990877271
-  lightness: 0.605634200386703
-  saturation: 0.5047725108452141
-  rhythmicContrast: 0.00280126859433949
+  brandStrength: 0.3724400559440255
+  lightness: 0.09327386505901814
+  saturation: 0.6112550771795213
+  rhythmicContrast: 0.8961664051748812
   brandColors:
-    - '#73603D'
-    - '#BF8A49'
-    - '#F2CA80'
-    - '#5E5A59'
-    - '#0D0D0D'
-layout_spectrum: 0.24867402319796383
+    - '#595241'
+    - '#B8AE9C'
+    - '#FFFFFF'
+    - '#ACCFCC'
+    - '#8A0917'
+layout_spectrum: 0.7781631820835173
 author:
   name: Chichi
 logo: >-
